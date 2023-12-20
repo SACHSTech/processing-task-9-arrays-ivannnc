@@ -1,0 +1,14 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/Users/ivanchen/Downloads/core (2).jar"
+        ],
+        "exclude": [
+            "lib/repl_core.jar"
+        ]
+    },
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
+    ]
+}
